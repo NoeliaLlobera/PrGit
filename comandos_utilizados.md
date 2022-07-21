@@ -1,0 +1,13 @@
+# Comandos utilizados
+- git clone
+- git status
+- git log
+- git add
+- git commit -m ""
+- git commit -am ""
+- git push
+- git remote remove origin
+- git checkout
+- git branch
+- git branch -r / -a
+- git merge
